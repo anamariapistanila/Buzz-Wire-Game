@@ -1,2 +1,1 @@
-# Project
 Buzz Wire Game
